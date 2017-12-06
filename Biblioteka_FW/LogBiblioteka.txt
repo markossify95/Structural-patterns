@@ -1,0 +1,6 @@
+Datum:Wed Dec 06 00:55:24 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:1, 'Knjiga jedan', 'Vulkan', 'MIka Pera Zika', '2011-12-09' Poruka:Publikacija je pronadjena.
+Datum:Wed Dec 06 00:55:24 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:1, 'Knjiga jedan', 'Vulkan', 'MIka Pera Zika', '2011-12-09' Poruka:Publikacija je pronadjena.
+Datum:Wed Dec 06 00:55:35 CET 2017 Naziv operacije:promeniDomenskiObjekat
+Domenski objekat:1, 'Knjiga jedan', 'Vulkan Izdavastvo', 'MIka Pera Zika', '2011-12-09' Poruka:Publikacija je uspesno izmenjena.
